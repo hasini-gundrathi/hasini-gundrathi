@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Hasini Gundrathi 👋
+> *“The only way to do great work is to love what you do.”* – Steve Jobs
 
-<!--
-**hasini-gundrathi/hasini-gundrathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a self-motivated student passionate about **web design & development**, photo editing, and creative expression. I blend aesthetics with code to build intuitive interfaces and stunning visuals. This GitHub profile serves as my digital portfolio (personal resume) showcasing my journey
+medium.com
+. I’m always eager to learn and improve, combining creative flair with technical skills.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Skills & Tools
+I thrive on a minimal, icon-driven style to keep my projects clean and engaging
+medium.com
+. I showcase my skills and tools using badges and icons. Below are some badges representing the core technologies I work with
+github.com
+:     Each badge above highlights a key tool or language (HTML5, CSS3, JavaScript, Python).
+Web: HTML, CSS, JavaScript, Flask, .NET Framework
+Programming: C, C++, Python, Java (Object-Oriented Programming)
+Design: Canva, Adobe Photoshop
+🎯 Learning Goals
+I’m excited to expand my skills by learning Flutter for mobile development and Figma for UI/UX design. These tools will help me create cross-platform interfaces and polished designs. Here are their badges:   In the coming months, I look forward to applying Flutter and Figma in my projects!
+🤝 Connect with Me
+Let’s keep in touch! Feel free to reach out or connect with me on LinkedIn:
+🔗 Your LinkedIn Profile
+“Stay curious, keep learning.”
