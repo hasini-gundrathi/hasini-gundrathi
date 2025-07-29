@@ -68,16 +68,3 @@
 ---
 
 > 🧁 *"Design is not just what it looks like and feels like. Design is how it works."* — Steve Jobs
-
-```
-
----
-
-### 💡 What to Do Next
-
-- Let me know your **LinkedIn**, **email**, and **portfolio** link so I can fill them in!
-- Want to add a **GIF banner** or **custom badge icons**?
-- Want me to generate matching **GitHub pinned project preview images**?
-
-Let’s polish it till it glows ✨
-```
