@@ -33,7 +33,7 @@ In the coming months, I’m excited to build creative, interactive projects with
 
 ---
 
-## 📌 A Few Quick Facts
+## 📌 A FEW QUICK FACTS
 
 - 🌱 I love turning code into creative interfaces  
 - 🎨 Obsessed with aesthetic layouts and minimal UI  
@@ -43,7 +43,7 @@ In the coming months, I’m excited to build creative, interactive projects with
 
 ---
 
-## 💼 Open to Opportunities
+## 💼 OPEN TO OPPORTUNITIES
 
 I'm currently open to:
 
@@ -55,7 +55,7 @@ Let’s collaborate on something amazing!
 
 ---
 
-## 🔧 Currently Working On
+## 🔧 CURRENTLY WORKING ON
 
 - Practicing layout animations and transitions using CSS & JS  
 - Learning Dart as a foundation for Flutter  
@@ -63,38 +63,38 @@ Let’s collaborate on something amazing!
 
 ---
 
-## 🧹 Featured Projects
+## 🧹 FEATURED PROJECTS
 
 Coming soon! Stay tuned for creative and technical showcases here.
 
 ---
 
-## 🧡 Connect with Me
+## 🧡 CONNECT WITH ME
 
 Let’s keep in touch!  
 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) <!-- Replace with your actual profile -->
 
 ---
 
-## 🌐 Portfolio
+## 🌐 PORTFOLIO
 
 Coming soon at [hasinigundrathi.dev](https://hasinigundrathi.dev)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub STATS
 
 ![Hasini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasini-gundrathi&show_icons=true&theme=default)
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 GitHub STREAKS
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hasini-gundrathi&theme=default)](https://git.io/streak-stats)
 
 ---
 
-## 🏆 GitHub Trophy
+## 🏆 GitHub TROPHIES
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hasini-gundrathi&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
