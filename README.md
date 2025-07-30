@@ -1,70 +1,106 @@
-<h1 align="center">Hasini Gundrathi</h1>
+# Hi, I'm Hasini Gundrathi 👋
 
-<h3 align="center"><small><code> Graphic Designer · Frontend Developer · Curious Creative </code></small></h3>
+> *“The only way to do great work is to love what you do.”* – Steve Jobs
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Made_with-Love-a13232?style=flat&logo=heart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Code-HTML/CSS/JS-ffeb3b?style=flat&logo=javascript&logoColor=a13232"/>
-</p>
+I’m a self-motivated student passionate about **web design & development**, **photo editing**, and **creative expression**. I love blending aesthetics with code to craft intuitive interfaces and visually appealing experiences.
 
----
-
-##  ABOUT ME
-
-🎓 Currently: Student exploring creativity + code
-🎨 Passionate about: Visual Design, Typography, and UI/UX
-💻 Tech stack: HTML · CSS · JavaScript · React · Git · Figma · Canva
-🌈 Aesthetic: Warm, expressive, and a little quirky!
-🧠 Learning: Web animation, motion graphics, advanced JavaScript
-
+This GitHub profile is my digital space to showcase my learning journey and skills. I'm always eager to explore new technologies and bring ideas to life with design and code.
 
 ---
 
-## 🧰 Tools I Use
+## 🛠 Skills & Tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Figma-a13232?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-f4e4d0?style=for-the-badge&logo=html5&logoColor=a13232"/>
-  <img src="https://img.shields.io/badge/CSS3-f4e4d0?style=for-the-badge&logo=css3&logoColor=a13232"/>
-  <img src="https://img.shields.io/badge/JavaScript-ffeb3b?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-2b2b2b?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Canva-f2eb9e?style=for-the-badge&logo=canva&logoColor=a13232"/>
-</p>
+**Web:**  
+`HTML` · `CSS` · `JavaScript` · `Flask` · `.NET Framework`
 
----
+**Programming:**  
+`C` · `C++` · `Python` · `Java`  
+*Object-Oriented Programming (OOP) using C++*
 
-## 📁 Featured Projects
-
-| Project                      | Description                                                                                      |
-| ---------------------------- | ------------------------------------------------------------------------------------------------ |
-| 🎨 [**Design Aura**](#)      | A whimsical portfolio site using pure HTML/CSS — themed around soft palettes + expressive fonts. |
-| 📚 [**The Lost Desktop**](#) | An immersive OS-style story site (roleplay/ARG) using JS + creative UI.                          |
-| 🌐 [**Civic Hero App**](#)   | A gamified social app to promote civic sense, featuring karma points and missions.               |
+**Design:**  
+`Canva` · `Adobe Photoshop`
 
 ---
 
-### 🌟 Fun Facts
+## 🎯 Learning Goals
 
-* 🐚 I love creating with limitations — like monochrome or pixel grids.
-* 📚 Addicted to manhwas and organizing digital workspaces!
-* 🎧 Currently vibing to **"Noor" by Akshat** while building pages.
+Currently exploring:
 
----
+- **Flutter** — for building cross-platform mobile apps  
+- **Figma** — for UI/UX design and prototyping
 
-### 📫 Let’s Connect!
-
-<p>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-a13232?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-ffeb3b?style=for-the-badge&logo=gmail&logoColor=black" />
-  </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-f4e4d0?style=for-the-badge&logo=google-chrome&logoColor=a13232" />
-  </a>
-</p>
+In the coming months, I’m excited to build creative, interactive projects with these tools!
 
 ---
 
-> 🧁 *"Design is not just what it looks like and feels like. Design is how it works."* — Steve Jobs
+## 📌 A Few Quick Facts
+
+- 🌱 I love turning code into creative interfaces  
+- 🎨 Obsessed with aesthetic layouts and minimal UI  
+- 📷 You’ll often find me editing photos or designing for fun  
+- 🧠 Always curious, always learning  
+- 🤖 I use ChatGPT to boost my productivity and creativity
+
+---
+
+## 💼 Open to Opportunities
+
+I'm currently open to:
+
+- 🌐 Frontend Development internships  
+- 🎨 UI/UX Design collaborations  
+- 💡 Creative web-based side projects  
+
+Let’s collaborate on something amazing!
+
+---
+
+## 🔧 Currently Working On
+
+- Practicing layout animations and transitions using CSS & JS  
+- Learning Dart as a foundation for Flutter  
+- Creating UI mockups in Figma for a personal project
+
+---
+
+## 🧹 Featured Projects
+
+Coming soon! Stay tuned for creative and technical showcases here.
+
+---
+
+## 🧡 Connect with Me
+
+Let’s keep in touch!  
+🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) <!-- Replace with your actual profile -->
+
+---
+
+## 🌐 Portfolio
+
+Coming soon at [hasinigundrathi.dev](https://hasinigundrathi.dev)
+
+---
+
+## 📊 GitHub Stats
+
+![Hasini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasini-gundrathi&show_icons=true&theme=default)
+
+---
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=hasini-gundrathi&theme=default)](https://git.io/streak-stats)
+
+---
+
+## 🏆 GitHub Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hasini-gundrathi&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+> *“Stay curious, keep learning.”*  
+I use ChatGPT 😊
+
+---
