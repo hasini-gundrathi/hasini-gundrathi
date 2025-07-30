@@ -1,13 +1,13 @@
-<h1 align="center">⊹ ࣪ ˖ Hasini Gundrathi ˖ ࣪ ⊹</h1>
+<h1 align="center">Hasini Gundrathi</h1>
 
-<h3 align="center"><small><code>⊹ Graphic Designer ˖ Frontend Developer ˖ Curious Creative ⊹</code></small></h3>
+<h3 align="center"><small><code> Graphic Designer · Frontend Developer · Curious Creative </code></small></h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made_with-Love-a13232?style=flat&logo=heart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Code-HTML/CSS/JS-ffeb3b?style=flat&logo=javascript&logoColor=a13232"/>
 </p>
 
-✦•·····································································································································•✦•··········································································································································•✦
+---
 
 ##  ABOUT ME
 
