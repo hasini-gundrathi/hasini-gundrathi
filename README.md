@@ -1,26 +1,26 @@
 <h1 align="center">⊹ ࣪ ˖ Hasini Gundrathi ˖ ࣪ ⊹</h1>
-<h3 align="center"><code>⊹ Graphic Designer · Frontend Developer · Curious Creative ⊹</code></h3>
+
+<h3 align="center"><small><code>⊹ Graphic Designer ˖ Frontend Developer ˖ Curious Creative ⊹</code></small></h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made_with-Love-a13232?style=flat&logo=heart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Code-HTML/CSS/JS-ffeb3b?style=flat&logo=javascript&logoColor=a13232"/>
 </p>
 
----
+✦•·····································································································································•✦•··········································································································································•✦
 
-### 🌸 About Me
+##  ABOUT ME
 
-```txt
 🎓 Currently: Student exploring creativity + code
 🎨 Passionate about: Visual Design, Typography, and UI/UX
 💻 Tech stack: HTML · CSS · JavaScript · React · Git · Figma · Canva
 🌈 Aesthetic: Warm, expressive, and a little quirky!
 🧠 Learning: Web animation, motion graphics, advanced JavaScript
-````
+
 
 ---
 
-### 🧰 Tools I Use
+## 🧰 Tools I Use
 
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-a13232?style=for-the-badge&logo=figma&logoColor=white"/>
@@ -33,7 +33,7 @@
 
 ---
 
-### 📁 Featured Projects
+## 📁 Featured Projects
 
 | Project                      | Description                                                                                      |
 | ---------------------------- | ------------------------------------------------------------------------------------------------ |
