@@ -1,4 +1,4 @@
-# Hi, I'm Hasini Gundrathi 👋
+# Hola, I'm Hasini Gundrathi 👋
 
 > *“The only way to do great work is to love what you do.”* – Steve Jobs
 
@@ -8,7 +8,7 @@ This GitHub profile is my digital space to showcase my learning journey and skil
 
 ---
 
-## 🛠 Skills & Tools
+## 🛠 SKILLS & TOOLS
 
 **Web:**  
 `HTML` · `CSS` · `JavaScript` · `Flask` · `.NET Framework`
@@ -22,7 +22,7 @@ This GitHub profile is my digital space to showcase my learning journey and skil
 
 ---
 
-## 🎯 Learning Goals
+## 🎯 LEARNING GOALS
 
 Currently exploring:
 
@@ -101,6 +101,3 @@ Coming soon at [hasinigundrathi.dev](https://hasinigundrathi.dev)
 ---
 
 > *“Stay curious, keep learning.”*  
-I use ChatGPT 😊
-
----
