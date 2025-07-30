@@ -2,7 +2,7 @@
 <h3 align="center">Graphic Designer · Frontend Developer · Curious Creative</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made_with-Love-a13232?style=flat&logo=heart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Made_with-Love-?style=flat&logo=heart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Code-HTML/CSS/JS-ffeb3b?style=flat&logo=javascript&logoColor=a13232"/>
 </p>
 
