@@ -1,4 +1,4 @@
-<h1 align="center">🌼 Hasini Gundrathi</h1>
+<h1 align="center">── ⊹ ࣪ ˖Hasini Gundrathi˖ ࣪ ⊹ ──</h1>
 <h3 align="center"><code>Graphic Designer · Frontend Developer · Curious Creative</code></h3>
 
 <p align="center">
