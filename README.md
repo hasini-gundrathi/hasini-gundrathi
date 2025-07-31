@@ -8,6 +8,8 @@ This GitHub profile is my digital space to showcase my learning journey and skil
 
 ---
 
+<img src="https://raw.githubusercontent.com/hasini-gundrathi/assets/divider.svg" alt="divider" width="100%" />
+
 ## 🛠 SKILLS & TOOLS
 
 **Web:**  
