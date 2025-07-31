@@ -139,4 +139,4 @@ Coming soon at [hasinigundrathi.dev](https://hasinigundrathi.dev)
 
 --- -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=500&color=000000&width=435&lines=Thanks+for+visiting!;Have+a+great+day!;%E2%B8%9C(%EF%BD%A1%CB%83+%E1%B5%95+%CB%82+)%E2%B8%9D%E2%99%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=300&color=000000&width=435&lines=Thanks+for+visiting!;Have+a+great+day!;%E2%B8%9C(%EF%BD%A1%CB%83+%E1%B5%95+%CB%82+)%E2%B8%9D%E2%99%A1)](https://git.io/typing-svg)
