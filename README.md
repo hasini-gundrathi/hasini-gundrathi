@@ -8,8 +8,6 @@ This GitHub profile is my digital space to showcase my learning journey and skil
 
 ---
 
-<img src="assets/divider.svg" alt="divider" width="100%" />
-
 ## 🛠 SKILLS & TOOLS
 
 **Web:**  
