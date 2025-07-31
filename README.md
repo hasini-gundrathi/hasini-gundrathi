@@ -1,4 +1,4 @@
-# Hola, I'm Hasini Gundrathi 👋
+# Hi, I'm Hasini Gundrathi 👋
 
 > *“The only way to do great work is to love what you do.”* – Steve Jobs
 
@@ -11,18 +11,27 @@ This GitHub profile is my digital space to showcase my learning journey and skil
 ## 🛠 SKILLS & TOOLS
 
 **Web:**  
-`HTML` · `CSS` · `JavaScript` · `Flask` · `.NET Framework`
+![HTML](https://img.shields.io/badge/HTML-ffeb3b?style=for-the-badge&logo=html5&logoColor=a13232)
+![CSS](https://img.shields.io/badge/CSS-ffeb3b?style=for-the-badge&logo=css3&logoColor=a13232)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffeb3b?style=for-the-badge&logo=javascript&logoColor=a13232)
+![Flask](https://img.shields.io/badge/Flask-ffeb3b?style=for-the-badge&logo=flask&logoColor=a13232)
+![.NET Framework](https://img.shields.io/badge/.NET_Framework-ffeb3b?style=for-the-badge&logo=dotnet&logoColor=a13232)
 
 **Programming:**  
-`C` · `C++` · `Python` · `Java`  
+![C](https://img.shields.io/badge/C-ffeb3b?style=for-the-badge&logo=c&logoColor=a13232)
+![C++](https://img.shields.io/badge/C++-ffeb3b?style=for-the-badge&logo=cpp&logoColor=a13232)
+![Python](https://img.shields.io/badge/Python-ffeb3b?style=for-the-badge&logo=python&logoColor=a13232)
+![Java](https://img.shields.io/badge/Java-ffeb3b?style=for-the-badge&logo=java&logoColor=a13232)
+
 *Object-Oriented Programming (OOP) using C++*
 
 **Design:**  
-`Canva` · `Adobe Photoshop`
+![Canva](https://img.shields.io/badge/Canva-ffeb3b?style=for-the-badge&logo=canva&logoColor=a13232)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-ffeb3b?style=for-the-badge&logo=adobephotoshop&logoColor=a13232)
 
 ---
 
-## 🎯 LEARNING GOALS
+## 🎯 Learning Goals
 
 Currently exploring:
 
@@ -33,7 +42,7 @@ In the coming months, I’m excited to build creative, interactive projects with
 
 ---
 
-## 📌 A FEW QUICK FACTS
+## 📌 A Few Quick Facts
 
 - 🌱 I love turning code into creative interfaces  
 - 🎨 Obsessed with aesthetic layouts and minimal UI  
@@ -43,7 +52,7 @@ In the coming months, I’m excited to build creative, interactive projects with
 
 ---
 
-## 💼 OPEN TO OPPORTUNITIES
+## 💼 Open to Opportunities
 
 I'm currently open to:
 
@@ -55,7 +64,7 @@ Let’s collaborate on something amazing!
 
 ---
 
-## 🔧 CURRENTLY WORKING ON
+## 🔧 Currently Working On
 
 - Practicing layout animations and transitions using CSS & JS  
 - Learning Dart as a foundation for Flutter  
@@ -63,38 +72,68 @@ Let’s collaborate on something amazing!
 
 ---
 
-## 🧹 FEATURED PROJECTS
+## 🧹 Featured Projects
 
-Coming soon! Stay tuned for creative and technical showcases here.
+Here are some of my favorite CodePen creations!  
+*(More projects coming soon)*
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://codepen.io//pen/penid1" target="_blank">
+        <img src="https://codepen.io/yourusername/pen/penid1/image/large.png" alt="Project 1" width="200"/><br>
+        <b>Animated Navbar</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://codepen.io/yourusername/pen/penid2" target="_blank">
+        <img src="https://codepen.io/yourusername/pen/penid2/image/large.png" alt="Project 2" width="200"/><br>
+        <b>Glassmorphism Card</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://codepen.io/yourusername/pen/penid3" target="_blank">
+        <img src="https://codepen.io/yourusername/pen/penid3/image/large.png" alt="Project 3" width="200"/><br>
+        <b>CSS Loader</b>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!--
+Replace the href URLs (https://codepen.io/yourusername/pen/penidX) with your actual CodePen project links.
+Replace the image URLs if you want custom thumbnails (the default is the pen's large preview).
+You can add or remove columns as needed for your projects.
+-->
 
 ---
 
-## 🧡 CONNECT WITH ME
+## 🧡 Connect with Me
 
 Let’s keep in touch!  
 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) <!-- Replace with your actual profile -->
 
 ---
 
-## 🌐 PORTFOLIO
+## 🌐 Portfolio
 
 Coming soon at [hasinigundrathi.dev](https://hasinigundrathi.dev)
 
 ---
 
-## 📊 GitHub STATS
+## 📊 GitHub Stats
 
 ![Hasini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasini-gundrathi&show_icons=true&theme=default)
 
 ---
 
-## 🔥 GitHub STREAKS
+## 🔥 GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hasini-gundrathi&theme=default)](https://git.io/streak-stats)
 
 ---
 
-## 🏆 GitHub TROPHIES
+## 🏆 GitHub Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hasini-gundrathi&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
