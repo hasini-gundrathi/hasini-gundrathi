@@ -121,7 +121,7 @@ Coming soon at [hasinigundrathi.dev](https://hasinigundrathi.dev)
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 ![Hasini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasini-gundrathi&show_icons=true&theme=default)
 
@@ -137,6 +137,6 @@ Coming soon at [hasinigundrathi.dev](https://hasinigundrathi.dev)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hasini-gundrathi&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
----
+--- -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=500&color=000000&width=435&lines=Thanks+for+visiting!!!;%E2%B8%9C(%EF%BD%A1%CB%83+%E1%B5%95+%CB%82+)%E2%B8%9D%E2%99%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=500&color=000000&width=435&lines=Thanks+for+visiting!;Have+a+great+day!;%E2%B8%9C(%EF%BD%A1%CB%83+%E1%B5%95+%CB%82+)%E2%B8%9D%E2%99%A1)](https://git.io/typing-svg)
