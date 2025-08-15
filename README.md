@@ -45,7 +45,7 @@
 
 ## 📬 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffd95b?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/)
-[![Gmail](https://img.shields.io/badge/Email-ffd95b?style=for-the-badge&logo=gmail&logoColor=d14836)](mailto:your.email@example.com)
+[![Gmail](https://img.shields.io/badge/Email-ffd95b?style=for-the-badge&logo=gmail&logoColor=d14836)](mailto: hasinigundrathi@gmail.com)
 
 ---
 ✨ *Still learning. Still experimenting. Still having fun with it.*
