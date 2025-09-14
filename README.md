@@ -48,4 +48,5 @@
 [![Gmail](https://img.shields.io/badge/Email-ffd95b?style=for-the-badge&logo=gmail&logoColor=d14836)](mailto:hasinigundrathi@gmail.com)
 
 ---
-✨ *Still learning. Still experimenting. Still having fun with it.*
+<span style="display:block;text-align:center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=500&color=FFFFFF&center=false&width=600&height=100&lines=Thanks+for+visiting!!!;Still+learning%2C+experimenting%2C+having+fun+with+it.;%E2%B8%9C(%EF%BD%A1%CB%83+%E1%B5%95+%CB%82+)%E2%B8%9D%E2%99%A1)](https://git.io/typing-svg) </span>
+ 
